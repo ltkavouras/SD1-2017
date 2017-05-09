@@ -1,5 +1,13 @@
+/*
+ * File MainActivity.java
+ * Author: Louis Thomas Kavouras
+ * Course: CMPT 220
+ * Assignment: Project 2
+ * Due Date: May 8th,2017
+ * Version: 1.8
+ * This program matches two colors and provides output to the user
+*/
 package com.example.louis.colorcomparision;
-
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
