@@ -1,0 +1,12 @@
+39 pts
+
+The project allows users to verify if their color
+combination matches.
+The idea has good merit. 
+
+However, there are some issues...
+Code:
+- There is incorrect indentation. -1pt
+
+Overall:
+- Decent work above average of an SD1 student. 
